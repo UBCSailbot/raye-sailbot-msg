@@ -1,2 +1,2 @@
-float32 rudder
-float32 winch
+float64 rudder
+float64 winch
