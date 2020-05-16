@@ -18,6 +18,7 @@ add_message_files(
   windSensor.msg
   globalWind.msg
   addBoat.msg
+  actuation_angle.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
