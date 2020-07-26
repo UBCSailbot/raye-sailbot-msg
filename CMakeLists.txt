@@ -12,6 +12,7 @@ add_message_files(
   AISMsg.msg
   AISShip.msg
   path.msg
+  latlon.msg
   addBoat.msg
   actuation_angle.msg
   Sensors.msg
