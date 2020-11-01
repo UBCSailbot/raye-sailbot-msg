@@ -11,11 +11,15 @@ add_message_files(
   FILES
   AISMsg.msg
   AISShip.msg
-  path.msg
-  latlon.msg
-  addBoat.msg
-  actuation_angle.msg
+  GPS.msg
   Sensors.msg
+  actuation_angle.msg
+  addBoat.msg
+  globalWind.msg
+  heading.msg
+  latlon.msg
+  path.msg
+  windSensor.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
