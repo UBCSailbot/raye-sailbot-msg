@@ -17,6 +17,7 @@ bool     gps_0_latitude_loc
 bool     gps_0_longitude_loc
 int32    gps_0_groundspeed
 int32    gps_0_track_made_good
+int32    gps_0_true_heading
 int32    gps_0_magnetic_variation
 bool     gps_0_magnetic_variation_sense
 string   gps_1_timestamp
@@ -26,6 +27,7 @@ bool     gps_1_latitude_loc
 bool     gps_1_longitude_loc
 int32    gps_1_groundspeed
 int32    gps_1_track_made_good
+int32    gps_1_true_heading
 int32    gps_1_magnetic_variation
 bool     gps_1_magnetic_variation_sense
 
