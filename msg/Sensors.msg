@@ -10,7 +10,7 @@ int32 wind_sensor_2_direction_degrees
 int32 wind_sensor_3_speed_knots
 int32 wind_sensor_3_direction_degrees
 
-string   gps_can_timestamp_yymmddhhmmss
+string   gps_can_timestamp_utc
 float64  gps_can_latitude_degrees
 float64  gps_can_longitude_degrees
 int32    gps_can_groundspeed_knots
@@ -18,7 +18,7 @@ int32    gps_can_track_made_good_degrees
 int32    gps_can_true_heading_degrees
 int32    gps_can_magnetic_variation_degrees
 
-string   gps_ais_timestamp_yymmddhhmmss
+string   gps_ais_timestamp_utc
 float64  gps_ais_latitude_degrees
 float64  gps_ais_longitude_degrees
 int32    gps_ais_groundspeed_knots
