@@ -1,7 +1,7 @@
-// For more information refer to: 
-// https://ubcsailbot.atlassian.net/wiki/spaces/ADA2/pages/506167525/CAN+Bus+Inputs+and+Outputs
+# For more information refer to:
+# https://ubcsailbot.atlassian.net/wiki/spaces/ADA2/pages/506167525/CAN+Bus+Inputs+and+Outputs
 
-int32 sailencoder_degrees 
+int32 sailencoder_degrees
 
 float32 wind_sensor_1_speed_knots
 int32   wind_sensor_1_angle_degrees
@@ -37,6 +37,6 @@ float32 accelerometer_x_force_millig
 float32 accelerometer_y_force_millig
 float32 accelerometer_z_force_millig
 
-float32 gyroscope_x_velocity_millidegreesps 
+float32 gyroscope_x_velocity_millidegreesps
 float32 gyroscope_y_velocity_millidegreesps
 float32 gyroscope_z_velocity_millidegreesps
