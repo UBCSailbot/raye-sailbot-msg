@@ -1,2 +1,2 @@
-float64 rudder
-float64 winch
+float64 rudder_angle_degrees
+float64 abs_sail_angle_degrees
