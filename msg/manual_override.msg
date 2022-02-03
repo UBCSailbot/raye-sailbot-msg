@@ -1,0 +1,6 @@
+float64 rudder_angle_degrees
+float64 abs_sail_angle_degrees
+float64 abs_jib_angle_degrees
+
+# Make sure the above matches whatever is in actuation_angle.winch_main_angle_degrees
+bool manual_override_active

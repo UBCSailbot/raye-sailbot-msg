@@ -20,6 +20,7 @@ add_message_files(
   latlon.msg
   path.msg
   windSensor.msg
+  manual_override.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
