@@ -1,2 +1,3 @@
 float64 measuredDirectionDegrees
 float64 measuredSpeedKmph
+bool    lowWindConditions
