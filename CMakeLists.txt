@@ -21,6 +21,7 @@ add_message_files(
   path.msg
   windSensor.msg
   manual_override.msg
+  min_voltage.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
